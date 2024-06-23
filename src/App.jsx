@@ -28,7 +28,7 @@ const WrappedView = () => {
               <p className="text-lg font-semibold text-gray-800 mb-2">
                 Authenticated Successfully
               </p>
-              <p className="text-gray-600">
+              <p className="text-gray-600 text-pink-400">
                 Welcome, {activeAccount.username}!
               </p>
             </div>
